@@ -1,4 +1,4 @@
-# Mi proyecto NORLEY+YURANY
+# ❤️ Norley + Yurany Dos Locos  ❤️
 
 Hecho con:
 - python
