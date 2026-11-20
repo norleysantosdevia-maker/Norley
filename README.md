@@ -4,6 +4,6 @@ Hecho con:
 - python
 - Github
   
-**siempre juntos**
+**Un mundo de locuras junto a ti**
 
  [Mi Github](https://github.com)
